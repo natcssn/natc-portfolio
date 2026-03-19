@@ -9,7 +9,7 @@ This project includes:
 - Project carousel and contact/social modules
 - Vite-based fast local development and production builds
 
-![Portfolio Preview](public/images/preview.png)
+
 
 ## Tech Stack
 
